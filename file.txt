@@ -1,0 +1,8 @@
+{
+    "size": 9287,
+    "filepath": "C:\\Users\\ziqia\\AppData\\Local\\Temp\\7c6c627e51a8e3a808a70a500",
+    "newFilename": "7c6c627e51a8e3a808a70a500",
+    "mimetype": "text/plain",
+    "mtime": "2023-02-07T03:42:15.577Z",
+    "originalFilename": "echarts.txt"
+}
